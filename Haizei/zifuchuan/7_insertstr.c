@@ -3,7 +3,7 @@
 
 int main(){
 
-	char str[1024] = {'\0'};
+	char str[10000] = {'\0'};
 	scanf("%s",str);
 	
 	int n; 
